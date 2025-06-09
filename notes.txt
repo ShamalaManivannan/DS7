@@ -1,0 +1,8 @@
+1st - Firstly to gather all the data and to upload/load into the program.
+2nd - Data Preprocessing, You already prepare the data beforehand for future machine learning projects.
+3rd - Data Analysis, You take importance and fully analyse the data so we know properly our input and output columns and delete/drop the rest as they arent needed.
+4th - Define Input and Output, The input and output are each seperated into different dataframes.
+5th - Perform the test-train split, Split up the data into a testing(75-70%) and training(25-30%) data.
+6th - To perform the training of the model select the machine learning alogrithm.
+7th - Perform predictions aswell as compare the predictions with the actual result to calculate accuracy.
+
